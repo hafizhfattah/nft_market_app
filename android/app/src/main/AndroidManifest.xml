@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fade_image">
+    package="com.example.nft_shopui">
    <application
-        android:label="fade_image"
+        android:label="NFT SHOP"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,5 +1,5 @@
 // ignore_for_file: unused_local_variable
-import 'package:fade_image/page/bottom_nav.dart';
+import 'package:nft_shopui/page/bottom_nav.dart';
 import 'package:flutter/material.dart';
 
 void main() {

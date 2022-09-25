@@ -1,6 +1,6 @@
 {
-    "name": "fade_image",
-    "short_name": "fade_image",
+    "name": "nft_shopui",
+    "short_name": "nft_shopui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

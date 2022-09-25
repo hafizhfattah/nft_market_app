@@ -1,16 +1,57 @@
-# fade_image
+### 📦 **NFT SHOP**
 
-A new Flutter project.
+An App With beautiful NFT SHOP Design
+Made With Flutter
 
-## Getting Started
+### 🎁 **Fiture**
+- App Name
+- Animation Bottom Navbar
+- Clean Code & UI
 
-This project is a starting point for a Flutter application.
+### 📄 **Page Include**
+- Search Page
+- Shop Page
 
-A few resources to get you started if this is your first Flutter project:
+### 🎖  **Installing**
+```
+dependencies:
+  cupertino_icons: ^1.0.2
+  custom_navigation_bar: ^0.8.2
+  flutter:
+    sdk: flutter
+  google_fonts: null
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run `flutter pub get` In Terminal
+3. Run the project In Web or Emulator
+
+### 📷 **Screenshots**
+
+<img
+     src="/assets/image1.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image2.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+<img
+    src="/assets/image3.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+
+    
+    

@@ -1,4 +1,4 @@
-package com.example.fade_image
+package com.example.nft_shopui
 
 import io.flutter.embedding.android.FlutterActivity
 
