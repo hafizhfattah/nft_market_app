@@ -1,7 +1,6 @@
-### 📦 **NFT SHOP**
+### 📦 **Nft Market App**
 
-An App With beautiful NFT SHOP Design
-Made With Flutter
+Simple Nft Market App For Sell/Buy or Finding Inspiration
 
 ### 🎁 **Fiture**
 - App Name
