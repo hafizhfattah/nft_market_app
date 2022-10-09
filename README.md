@@ -1,6 +1,6 @@
 ### 📦 **Nft Market App**
 
-Simple Nft Market App For Sell/Buy or Finding Inspiration
+Simple Nft Market App For Sell/Buy or Finding Inspiration.
 
 ### 🎁 **Fiture**
 - App Name
